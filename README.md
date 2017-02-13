@@ -5,7 +5,7 @@ In this project, your task is to create create a webpage that displays ```Hello 
 Directions:
 <ol>
 <li>Edit `index.html`.</li>
-<li>Right after where it says `<!-- BEGIN EDITABLE CODE -->`, type in the following code: `<p>Hello World!</p>`.</li>
+<li>Right after where it says ```<!-- BEGIN EDITABLE CODE -->```, type in the following code: ```<p>Hello World!</p>```.</li>
 <li>Scroll down and click on the button that says `Commit Changes`.</li>
 </ol>
 
